@@ -1,0 +1,6 @@
+Controller\MemberController.class
+Repository\MemberRepository.class
+Repository\MemberInfo.class
+Entity\Member.class
+com\example\back_java\BackJavaApplication.class
+Service\MemberService.class
